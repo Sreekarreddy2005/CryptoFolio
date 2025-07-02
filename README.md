@@ -17,3 +17,7 @@ Dark mode
 
 Trending Coins Section
 
+Instrictions:-
+1) Clone the repository
+2) run npm install to install dependencies
+3) to run it on server npm start
